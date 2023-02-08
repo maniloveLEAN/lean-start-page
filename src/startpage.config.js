@@ -1,5 +1,5 @@
 const config = {
-	username: "Excalith",
+	username: "lean-admin",
 	terminal: {
 		fixedheight: true,
 		backgroundcolor: "#121317",
@@ -140,27 +140,28 @@ const config = {
 			color: "purple",
 			links: [
 				{
-					name: "Twitter",
-					url: "https://twitter.com",
-					icon: "mdi:twitter",
-					target: "_blank"
-				},
-				{
-					name: "Mastodon",
-					url: "https://mastodon.social/",
-					icon: "ri:mastodon-fill",
-					target: "_blank"
-				},
-				{
+
 					name: "Reddit",
 					url: "https://reddit.com",
 					icon: "mdi:reddit",
 					target: "_blank"
 				},
 				{
-					name: "Polywork",
-					url: "https://polywork.com",
-					icon: "simple-icons:polywork",
+					name: "Discord",
+					url: "https://discord.com/",
+					icon: "ic:baseline-discord",
+					target: "_blank"
+				},
+				{
+					name: "Twitter",
+					url: "https://twitter.com",
+					icon: "mdi:twitter",
+					target: "_blank"
+				},
+				{
+					name: "[ENTER_NEW_SITE]",
+					url: "about:blank",
+					icon: "subway:missing",
 					target: "_blank"
 				}
 			]
@@ -248,9 +249,9 @@ const config = {
 					target: "_blank"
 				},
 				{
-					name: "Google",
-					url: "https://google.com/",
-					icon: "ion:logo-google",
+					name: "GOOGLE",
+					url: "https://google.de/",
+					icon: "uil:linux",
 					target: "_blank"
 				}
 			]

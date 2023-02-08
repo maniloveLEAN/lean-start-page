@@ -186,12 +186,6 @@ const config = {
 					url: "https://rockpapershotgun.com/",
 					icon: "ph:toilet-paper-bold",
 					target: "_blank"
-				},
-				{
-					name: "80lv",
-					url: "https://80.lv/",
-					icon: "tabler:hand-rock",
-					target: "_blank"
 				}
 			]
 		},

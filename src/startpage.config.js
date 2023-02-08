@@ -1,5 +1,5 @@
 const config = {
-	username: "Excalith",
+	username: "leandro",
 	terminal: {
 		fixedheight: true,
 		backgroundcolor: "#121317",
@@ -116,18 +116,6 @@ const config = {
 					target: "_blank"
 				},
 				{
-					name: "GitLab",
-					url: "https://gitlab.com",
-					icon: "ph:gitlab-logo-simple-fill",
-					target: "_blank"
-				},
-				{
-					name: "Dev.to",
-					url: "https://dev.to",
-					icon: "material-symbols:logo-dev",
-					target: "_blank"
-				},
-				{
 					name: "Stack Overflow",
 					url: "https://stackoverflow.com/",
 					icon: "mdi:stack-overflow",
@@ -146,21 +134,9 @@ const config = {
 					target: "_blank"
 				},
 				{
-					name: "Mastodon",
-					url: "https://mastodon.social/",
-					icon: "ri:mastodon-fill",
-					target: "_blank"
-				},
-				{
 					name: "Reddit",
 					url: "https://reddit.com",
 					icon: "mdi:reddit",
-					target: "_blank"
-				},
-				{
-					name: "Polywork",
-					url: "https://polywork.com",
-					icon: "simple-icons:polywork",
 					target: "_blank"
 				}
 			]
@@ -170,21 +146,9 @@ const config = {
 			color: "cyan",
 			links: [
 				{
-					name: "Polygon",
-					url: "https://polygon.com",
-					icon: "uil:polygon",
-					target: "_blank"
-				},
-				{
-					name: "IGN",
-					url: "https://ign.com",
-					icon: "mdi:currency-sign",
-					target: "_blank"
-				},
-				{
-					name: "RPS",
-					url: "https://rockpapershotgun.com/",
-					icon: "ph:toilet-paper-bold",
+					name: "Steam",
+					url: "https://steampowered.com",
+					icon: "bi:steam",
 					target: "_blank"
 				}
 			]
@@ -193,12 +157,6 @@ const config = {
 			title: "Science",
 			color: "blue",
 			links: [
-				{
-					name: "PopSci",
-					url: "https://popsci.com/",
-					icon: "material-symbols:science",
-					target: "_blank"
-				},
 				{
 					name: "Space",
 					url: "fa6-solid:user-astronaut",
@@ -223,24 +181,6 @@ const config = {
 			title: "Tech",
 			color: "yellow",
 			links: [
-				{
-					name: "TechCrunch",
-					url: "https://techcrunch.com/",
-					icon: "game-icons:techno-heart",
-					target: "_blank"
-				},
-				{
-					name: "Verge",
-					url: "https://www.theverge.com/",
-					icon: "arcticons:verge",
-					target: "_blank"
-				},
-				{
-					name: "It's Foss",
-					url: "https://itsfoss.com/",
-					icon: "ri:mastodon-fill",
-					target: "_blank"
-				},
 				{
 					name: "Google",
 					url: "https://google.com/",

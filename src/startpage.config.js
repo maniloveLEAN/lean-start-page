@@ -248,8 +248,8 @@ const config = {
 					target: "_blank"
 				},
 				{
-					name: "9To5 Linux",
-					url: "https://9to5linux.com/",
+					name: "Google",
+					url: "https://google.com/",
 					icon: "uil:linux",
 					target: "_blank"
 				}

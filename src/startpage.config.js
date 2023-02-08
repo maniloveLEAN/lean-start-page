@@ -250,7 +250,7 @@ const config = {
 				{
 					name: "Google",
 					url: "https://google.com/",
-					icon: "uil:linux",
+					icon: "ion:logo-google",
 					target: "_blank"
 				}
 			]

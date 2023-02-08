@@ -80,15 +80,15 @@ const config = {
 			color: "green",
 			links: [
 				{
-					name: "Portfolio",
-					url: "https://cancellek.com",
-					icon: "mdi:web",
+					name: "YouTube",
+					url: "https://youtube.com",
+					icon: "bi:youtube",
 					target: "_blank"
 				},
 				{
-					name: "Keybase",
-					url: "https://keybase.io/",
-					icon: "fa-brands:keybase",
+					name: "Discord",
+					url: "discord.com",
+					icon: "ic:baseline-discord",
 					target: "_blank"
 				},
 				{
@@ -98,9 +98,9 @@ const config = {
 					target: "_blank"
 				},
 				{
-					name: "OCI",
-					url: "https://www.oracle.com/cloud/",
-					icon: "simple-icons:oracle",
+					name: "Reddit",
+					url: "https://reddit.com",
+					icon: "ic:baseline-reddit",
 					target: "_blank"
 				}
 			]
